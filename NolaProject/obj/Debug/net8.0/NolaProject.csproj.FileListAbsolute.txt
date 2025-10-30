@@ -272,3 +272,4 @@ C:\Estudos_CSharp\NolaProject\NolaProject\obj\Debug\net8.0\refint\NolaProject.dl
 C:\Estudos_CSharp\NolaProject\NolaProject\obj\Debug\net8.0\NolaProject.pdb
 C:\Estudos_CSharp\NolaProject\NolaProject\obj\Debug\net8.0\NolaProject.genruntimeconfig.cache
 C:\Estudos_CSharp\NolaProject\NolaProject\obj\Debug\net8.0\ref\NolaProject.dll
+C:\Estudos_CSharp\NolaProject\NolaProject\obj\Debug\net8.0\NolaProject.sourcelink.json
