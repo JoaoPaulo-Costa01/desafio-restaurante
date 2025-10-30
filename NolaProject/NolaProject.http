@@ -1,0 +1,6 @@
+@NolaProject_HostAddress = http://localhost:5095
+
+GET {{NolaProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
