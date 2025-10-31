@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NolaProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e74130e4d4469e53618fa3cda7c0f9aab9672ec")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e11c7e7d24ed7b538c13bb4056a776b2fc94a7c0")]
 [assembly: System.Reflection.AssemblyProductAttribute("NolaProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NolaProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

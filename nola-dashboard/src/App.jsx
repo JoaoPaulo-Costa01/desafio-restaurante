@@ -12,7 +12,7 @@ import {
   Legend,
 } from 'chart.js';
 import { Bar, Line } from 'react-chartjs-2';
-import './App.css'; // Importa o CSS separado
+import './App.css';
 
 ChartJS.register(
   CategoryScale, LinearScale, BarElement, LineElement, PointElement,
