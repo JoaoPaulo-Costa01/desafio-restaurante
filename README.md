@@ -36,6 +36,12 @@ A API (`/api/analytics`) expõe os seguintes endpoints otimizados:
     * **Descrição:** Retorna uma lista de clientes fiéis que estão inativos.
     * **Parâmetros:** `minCompras` (int), `diasInativo` (int).
 
+## 🖼️ Imagens do Site
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9b9bfc14-77db-4626-83b8-0663e6bd684b" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/02049f26-73e1-4a3b-9226-3316742f8d9c" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/14159047-0f58-4735-9e05-79abd199d8f8" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bbf5480d-cdc0-4902-b5e8-083f22cc1cb3" />
+
 ## ⚙️ Como Executar o Projeto (Setup Local)
 
 ### Pré-requisitos:
