@@ -45,7 +45,15 @@ A API (`/api/analytics`) expõe os seguintes endpoints otimizados:
 * PostgreSQL 16 (instalado localmente, com pgAdmin)
 * Node.js (v18+)
 
-### 1. Preparar o Banco de Dados (PostgreSQL)
+### 1. Clonar o Repositório
+
+**Abra seu terminal, navegue até o diretório onde deseja salvar o projeto e execute o comando:**
+
+```bash
+git clone https://github.com/JoaoPaulo-Costa01/desafio-restaurante
+```
+
+### 2. Preparar o Banco de Dados (PostgreSQL)
 
 **Crie o Banco:**
 
@@ -77,7 +85,7 @@ A API (`/api/analytics`) expõe os seguintes endpoints otimizados:
     ```
 * Aguarde 10-15 minutos até os 500k+ de vendas serem gerados.
 
-### 2. Rodar o Back-end (API C#)
+### 3. Rodar o Back-end (API C#)
 
 **Abra o Projeto:**
 
@@ -93,7 +101,7 @@ A API (`/api/analytics`) expõe os seguintes endpoints otimizados:
 * Aperte F5 (ou o botão "Play") para iniciar a API.
 * Uma janela do Swagger deve abrir (ex: `https://localhost:7180/`). Anote esta porta.
 
-### 3. Rodar o Front-end (React)
+### 4. Rodar o Front-end (React)
 
 **Abra o Projeto:**
 
